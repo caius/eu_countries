@@ -1,3 +1,2 @@
-module EuCountries
-  # Your code goes here...
-end
+require "iso3166"
+require "eu_countries/eu_country"
