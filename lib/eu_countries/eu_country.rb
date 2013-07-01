@@ -3,7 +3,7 @@ module ISO3166
 
     # Returns an array of the alpha2 codes for all EU countries
     def self.codes
-      %w(AT BE BG CY CZ DK EE FI FR DE GB GR HU IE IT LV LT LU MT NL PL PT RO SK SI ES SE)
+      %w(AT BE BG HR CY CZ DK EE FI FR DE GB GR HU IE IT LV LT LU MT NL PL PT RO SK SI ES SE)
     end
 
     # Returns an array of EUCountry instances. By default them all, but you can filter using :except param.
